@@ -10,6 +10,7 @@ int main (){
 
     cout<<"javvvvvv";
     
+    cout<<" fuidjioajdioasjdiasjdoisa";
     
 
     
