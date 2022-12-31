@@ -4,7 +4,7 @@ using namespace std;
 int main (){
     cout<<"hello";
     cout<<endl;
-    cout<<"I want to be a data scientist";
+    cout<<"I want to be a data scientist.Hellocc";
 
     cout<<"huhuhuhuhu";
 
