@@ -8,9 +8,7 @@ int main (){
 
     cout<<"huhuhuhuhu";
 
-    dasdsa
-    __DEFINE_CPP_OVERLOAD_STANDARD_FUNC_0_0
-    dasdas
+    
     
 
     
